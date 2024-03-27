@@ -26,22 +26,31 @@ For convenience, the character name field is pre-filled with the name you used l
 ## Screenshots
 
 - **Starting Fresh**
+
   ![Starting Fresh](/.screenshots/1.new-character.png)
 - **Entering Backup Reason**
+
   ![Entering Backup Reason](/.screenshots/2.backup-reason.png)
 - **Backup Completed**
+
   ![Backup Completed](/.screenshots/3.backup-completed.png)
 - **Selecting a Restore Point**
+
   ![Selecting a Restore Point](/.screenshots/4.restore-select.png)
 - **Confirming Restore Action**
+
   ![Confirming Restore Action](/.screenshots/5.restore-confirm.png)
 - **Restore Completed**
+
   ![Restore Completed](/.screenshots/6.restore-complete.png)
 - **Confirming Deletion of Backup**
+
   ![Confirming Deletion of Backup](/.screenshots/7.confirm-delete.png)
 - **Home Screen**
+
   ![Home Screen](/.screenshots/home.png)
 - **Search Functionality**
+
   ![Search Functionality](/.screenshots/search.png)
 
 ## Roadmap
